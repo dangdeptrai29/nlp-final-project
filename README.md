@@ -32,6 +32,7 @@ This project contains a small experiment pipeline for traffic trace classificati
   - Dataset files containing traffic traces.
   - The notebooks currently use `tor_100w_2500tr.npz` by default.
   - The larger `.npz` files are available for scaling experiments.
+  - Dataset source: https://distrinet.cs.kuleuven.be/software/tor-wf-dl/
 
 ## How to use this project
 
